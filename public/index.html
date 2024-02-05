@@ -29,7 +29,7 @@
             }).then(extractedText => {
                 const StartIndex = extractedText.indexOf("Put a tick () in the box next to the one correct answer for each question.");
                 const EndIndex = extractedText.indexOf("Section A T");
-                const cleanedText = extractedText.slice(StartIndex + 76, sectionATotalEndIndex - 1);
+                const cleanedText = extractedText.slice(StartIndex + 76, EndIndex - 1);
                 resultTxt.value = cleanedText;
                 // extractQuestion(extractedText);
             });
