@@ -1,7 +1,7 @@
 const fs = require("fs");
 const pdf = require("pdf-parse");
 
-const pdfFile = fs.readFileSync("OCRQS.pdf");
+const pdfFile = fs.readFileSync("OCRQS2.pdf");
 
 async function extractPDF() {
   try {
@@ -17,7 +17,7 @@ async function extractPDF() {
 
 async function main() {
   const result = await extractPDF();
-
+  // console.log(result);
   extractText(result);
 }
 
@@ -26,11 +26,16 @@ function extractText(file) {
   const sectionATotalEndIndex = file.indexOf("Section A T");
   const extractedText = file.slice(sectionAStartIndex + 76, sectionATotalEndIndex - 1);
   console.log(extractedText);
+  
+  fs.writeFile("pdf.txt", file, (err) => {});
   // extractQuestion(extractedText);
 }
 
-const extractQuestion = (question) => {
-  
+function extractQuestion(question){
+
 }
 
 main();
+
+
+// ([0-9A-D]+)[\n\s]+([^\?]+\?)

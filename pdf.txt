@@ -1,0 +1,121 @@
+1
+ Which of the following is a characteristic of an embedded computer system? 
+A Able to carry out a wide range of tasks
+B Can be upgraded by a user
+C
+ Contains a complex user interface
+D Low power consumption
+[1]
+2 Which hardware is needed to connect a tablet computer to the internet?
+A    NIC
+B    Router
+C    Server
+D Wireless Access Point (WAP)
+[1]
+3 Which of the following is a development tool?
+A    CAD/CAM
+B    Compiler
+C
+ Project Management
+D    Spreadsheet
+[1]
+
+© OCR 2022 Turn over
+3
+4 Which of the following is a benefit of off-the-shelf software?
+A Available immediately
+B    Free
+C Has lots of extra features
+D
+ Requires an annual fee
+[1]
+5
+ Which communication method allows real-time internet chat conversations? 
+A    Email
+B Instant messaging
+C Short Messaging Service
+D Voice over Internet Protocol
+[1]
+6 FTP stands for:
+A Fast Transfer Protocol
+B
+ File Transfer 
+Protocol
+C File Translation Protocol
+D Final Transistor Position
+[1]
+
+4
+© OCR 2022
+7 Which of the following is not a form of virtualisation? 
+A    Client
+B    Cloud
+C    Hyperviso
+r
+D    Storage
+[1]
+8
+ Which connectivity method would be the most suitable to create a secure link between two 
+banks? 
+A    ADSL
+B    Ethernet
+C    ISDN
+D
+ Leased Line
+[1]
+9
+ Which communication method would be most affected by a noisy environment? 
+A    Email
+B Group discussion
+C    Letter
+D Social networking
+[1]
+
+© OCR 2022 Turn over
+5
+10 Identify the personal attribute required to be a network manager.
+A Body language
+B Can do attitude
+C Eye contact
+D
+ Planning and organisation skills
+[1]
+11
+ Which of the following demonstrates that an employee is ready to work?
+A    Bias
+B Personal grooming
+C Problem-solving skills
+D    Respect
+[1]
+12 Which of the following is not a purpose of a professional body? 
+A Gain industry certification
+B Organise industrial action
+C
+ Provide forums for discussion
+D Regulation of standard operating procedures
+[1]
+
+6
+© OCR 2022
+13 Which operational issue would be implemented if a flood affected a business’s computer 
+systems? 
+A Acceptable use policy
+B Change management
+C Disaster planning and recovery
+D Health and Safety
+[1]
+14 Which of the following is not a feature of providing remote access for a business’
+s 
+employees?
+A Allows high level of security
+B Easily scalable
+C Only accessible through one type of device
+D User friendly
+[1]
+15 Which digital security method can be linked to user groups when protecting a computer 
+system?  
+A    Anti-spyware
+B    Biometrics
+C    Encryption
+D Username and password
+[1]
