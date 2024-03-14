@@ -1,0 +1,3 @@
+- if there is a single number followed by a Letter = Questioon start
+- if there is a single number then new line then another number = first number is gibberish
+- if the line has a single letter that is A | B | C then = word/s after it is/are answers
